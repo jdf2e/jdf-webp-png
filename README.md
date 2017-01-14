@@ -1,3 +1,8 @@
+[![NPM](https://nodei.co/npm/jdf-webp-png.png?downloads=true)](https://nodei.co/npm/jdf-webp-png/)
+
+[![NPM version](https://badge.fury.io/js/jdf-webp-png.png)](http://badge.fury.io/js/jdf-webp-png) [![Build Status](https://travis-ci.org/jdf2e/jdf-webp-png.svg?branch=master)](https://travis-ci.org/jdf2e/jdf-webp-png)
+
+
 # jdf-webp-png
 
 > A webp-png wrapper for JDF
