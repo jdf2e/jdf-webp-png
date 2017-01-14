@@ -20,11 +20,9 @@ execFile(cwebp, ['input.png', '-o', 'output.webp'], function (err) {
 	if (err) {
 		throw err;
 	}
-
 	console.log('Image is converted!');
 });
 ```
-
 
 ## CLI
 

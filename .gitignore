@@ -1,3 +1,4 @@
 node_modules
 test/tmp
 vendor/cwebp*
+/test/1_mini.png.webp
